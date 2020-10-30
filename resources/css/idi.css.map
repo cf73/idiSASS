@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AACA,QAAS;EACL,OAAO,EAFC,OAAO",
+"sources": ["../sass/colors.scss"],
+"names": [],
+"file": "idi.css"
+}

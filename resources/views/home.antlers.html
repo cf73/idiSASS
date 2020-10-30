@@ -1,0 +1,13 @@
+<div class="container">
+    <div id="header" class="row">
+
+    </div>
+    <div id="content" class="row">
+        {{collection:sections}}
+            <div class="col">
+                {{ partial:_section-card :title="title" }}
+            </div>
+        {{/collection:sections}}
+    </div>
+    
+</div>
